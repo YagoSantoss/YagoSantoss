@@ -175,53 +175,27 @@ minha jornada como profissional em tecnologia.
 
 | Platform         | Lab/Challenge                                                                           | Status            |
 |------------------|-----------------------------------------------------------------------------------------|-------------------|
-| Hack The Box     |  [Puppy (Windows - Medium)](https://www.hackthebox.com/achievement/machine/2089161/661) | ✅ Completed     |
+| Hack The Box     | Coming soon                                                                             | 🔄 Coming soon   |
 | Coming soon      | Coming soon                                                                             | 🔄 Coming soon   |
 | Coming soon      | Coming soon                                                                             | 🔄 Coming soon   |
 | Coming soon      | Coming soon                                                                             | 🔄 Coming soon   |
 | Coming soon      | Coming soon                                                                             | 🔄 Coming soon   |
 | Coming soon      | Coming soon                                                                             | 🔄 Coming soon   |
 
----
-
-## 📅 **Upcoming Exams**
-| Exam                               | Date         | Status       |
-|------------------------------------|--------------|--------------|
-|                                    |              |🔄 Coming soon|
-## 🛠️ **War Toolbox**
-<p align="center">
-  <img src="https://img.shields.io/badge/Burp_Suite-FCA121?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/BloodHound-990000?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CrackMapExec-1c1c1c?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Impacket-0082C9?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kerbrute-FF0000?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Responder-000000?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LDAPDomainDump-0078D4?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Certipy-0082C9?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FFUF-000000?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLmap-000000?style=for-the-badge&logoColor=red"/>
-  <img src="https://img.shields.io/badge/IDA_Pro-000000?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ghidra-F80000?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-</p>
 
 
----
+## 🌐 **idiomas**
+- 🇧🇷 **Portugues:** Nativo  
+- 🇺🇸 **English:** Básico  
 
-## 🌐 **Languages**
-- 🇧🇷 **Portuguese:** Native  
-- 🇺🇸 **English:** Advanced  
-- 🇪🇸 **Spanish:** Intermediate  
-- 🇫🇷 **French:** Intermediate  
-- 🇷🇺 **Russian:** Beginner  
 
 ---
 
 ## 🕸️ **Where to Find Me**
 <p align="center">
-  <a href="https://github.com/LuanGonzaga"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/luangonzagaa/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://tryhackme.com/p/pwnedby"><img src="https://img.shields.io/badge/TryHackMe-FF0000?style=for-the-badge&logo=tryhackme&logoColor=white"/></a>
+  <a href="https://github.com/YagoSantoss"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/yago-pereira-santos-509209223/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href=https://tryhackme.com/p/yagomib971"><img src="https://img.shields.io/badge/TryHackMe-FF0000?style=for-the-badge&logo=tryhackme&logoColor=white"/></a>
 </p>
 
 ---
