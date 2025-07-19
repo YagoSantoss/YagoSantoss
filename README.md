@@ -136,9 +136,12 @@ minha jornada como profissional em tecnologia.
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=YagoSantoss&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>
-<br>
+
+<br/>
+<br/>
+
+
 ---
 
 ## 🏅 **Certificates and Badges**
