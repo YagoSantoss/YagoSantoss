@@ -138,9 +138,9 @@ minha jornada como profissional em tecnologia.
   />
 
 </p>
-
----
 <br>
+---
+
 ## 🏅 **Certificates and Badges**
 <p align="center"> 
   <a href="https://app.kajabi.com/certificates/a4409779"> 
