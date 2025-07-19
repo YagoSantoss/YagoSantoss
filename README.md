@@ -17,22 +17,6 @@ minha jornada como profissional em tecnologia.
 
 ---
 
-## 🛠️ **War Toolbox**
-<p align="center">
-  <img src="https://img.shields.io/badge/Burp_Suite-FCA121?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/BloodHound-990000?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CrackMapExec-1c1c1c?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Impacket-0082C9?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kerbrute-FF0000?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Responder-000000?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LDAPDomainDump-0078D4?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Certipy-0082C9?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FFUF-000000?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLmap-000000?style=for-the-badge&logoColor=red"/>
-  <img src="https://img.shields.io/badge/IDA_Pro-000000?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ghidra-F80000?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-</p>
 
 ---
 
@@ -115,6 +99,23 @@ minha jornada como profissional em tecnologia.
 | Exam                               | Date         | Status       |
 |------------------------------------|--------------|--------------|
 |                                    |              |🔄 Coming soon|
+## 🛠️ **War Toolbox**
+<p align="center">
+  <img src="https://img.shields.io/badge/Burp_Suite-FCA121?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BloodHound-990000?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CrackMapExec-1c1c1c?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Impacket-0082C9?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kerbrute-FF0000?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Responder-000000?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LDAPDomainDump-0078D4?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Certipy-0082C9?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FFUF-000000?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLmap-000000?style=for-the-badge&logoColor=red"/>
+  <img src="https://img.shields.io/badge/IDA_Pro-000000?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ghidra-F80000?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+</p>
+
 
 ---
 
