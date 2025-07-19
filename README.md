@@ -1,7 +1,7 @@
 <h1 align="center">👾 Yago Pereira</h1>
 
 <p align="center">
-  <img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Ciber+Seguran%C3%A7a+e+Programa%C3%A7%C3%A3o"  />
+  <img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Ciber+Seguran%C3%A7a+e+Programa%C3%A7%C3%A3o" alt="Typing SVG" />
 </p>
 
 ---
