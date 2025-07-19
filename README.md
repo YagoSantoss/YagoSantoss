@@ -6,11 +6,14 @@
 
 ---
 
-### 🧠 **About Me**
-- 💻 Offensive Security | AD Exploitation | Web Pentesting | Malware Analysis  
-- 🏹 Passionate about breaking, understanding, and exploiting systems  
-- 🏴‍☠️ Love building homelabs to practice and deepen my skills  
-- 🚩 CTF player and offensive security enthusiast  
+### 🧠 **Sobre mim**
+Me chamo Yago Pereira, tenho 20 anos e sou natural de São Paulo. Sou formado em Análise e Desenvolvimento de
+Sistemas e atualmente sigo estudando e me aperfeiçoando na área de tecnologia, com foco em Cibersegurança e 
+Programação.
+Este GitHub será meu espaço para compartilhar projetos, aprendizados e conhecimentos adquiridos ao longo da
+minha jornada como profissional em tecnologia.
+
+
 
 ---
 
