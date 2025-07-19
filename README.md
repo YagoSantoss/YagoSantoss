@@ -148,7 +148,7 @@ minha jornada como profissional em tecnologia.
 
 ---
 
-## 🏅 **Certificates and Badges**
+## 🏅 **Certificados e Certificações**
 <p align="center"> 
   <a href="https://app.kajabi.com/certificates/a4409779"> 
     <img src="https://img.shields.io/badge/C3SA%20Premium%20Edition-CyberWarFare%20Labs-8B0000?style=for-the-badge" alt="C3SA Premium Edition"> 
