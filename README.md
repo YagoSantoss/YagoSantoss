@@ -161,11 +161,11 @@ minha jornada como profissional em tecnologia.
 
 ---
 
-## 👾 CTF Platforms
+## 👾 Plataformas de CTF
 
 <p align="center">
-  <a href="https://tryhackme.com/p/pwnedby" target="_blank" rel="noopener noreferrer">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/pwnedby.png?update=3" alt="TryHackMe Badge" />
+  <a href="https://tryhackme.com/p/yagomib971" target="_blank" rel="noopener noreferrer">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/yagomib971.png?update=3" alt="TryHackMe Badge" />
   </a>
 </p>
 
