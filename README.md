@@ -171,16 +171,16 @@ minha jornada como profissional em tecnologia.
 
 ---
 
-## 🏴‍☠️ **Recent Labs Completed**
+## 🏴‍☠️ **Laboratórios concluídos recentemente**
 
-| Platform         | Lab/Challenge                                                                           | Status            |
-|------------------|-----------------------------------------------------------------------------------------|-------------------|
-| Hack The Box     | Coming soon                                                                             | 🔄 Coming soon   |
-| Coming soon      | Coming soon                                                                             | 🔄 Coming soon   |
-| Coming soon      | Coming soon                                                                             | 🔄 Coming soon   |
-| Coming soon      | Coming soon                                                                             | 🔄 Coming soon   |
-| Coming soon      | Coming soon                                                                             | 🔄 Coming soon   |
-| Coming soon      | Coming soon                                                                             | 🔄 Coming soon   |
+| Plataforma    | Lab/Challenge                                                                     | Status         |
+|---------------|-----------------------------------------------------------------------------------|----------------|
+| Em breve      | Em breve                                                                          | 🔄 Em breve   |
+| Em breve      | Em breve                                                                          | 🔄 Em breve   |
+| Em breve      | Em breve                                                                          | 🔄 Em breve   |
+| Em breve      | Em breve                                                                          | 🔄 Em breve   |
+| Em breve      | Em breve                                                                          | 🔄 Em breve   |
+| Em breve      | Em breve                                                                          | 🔄 Em breve   |
 
 
 
