@@ -173,7 +173,7 @@ minha jornada como profissional em tecnologia.
 
 ## 🏴‍☠️ **Laboratórios concluídos recentemente**
 
-| Plataforma    | Lab/Challenge                                                                     | Status         |
+| Plataforma    | Laboratório/Desafio                                                               | Status         |
 |---------------|-----------------------------------------------------------------------------------|----------------|
 | Em breve      | Em breve                                                                          | 🔄 Em breve   |
 | Em breve      | Em breve                                                                          | 🔄 Em breve   |
