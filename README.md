@@ -150,19 +150,12 @@ minha jornada como profissional em tecnologia.
 
 ## 🏅 **Certificados e Certificações**
 <p align="center"> 
+
+  
   <a href="https://www.credly.com/badges/0ae191ff-8227-4ead-b457-a459c4478123/linked_in_profile"> 
     <img alt="Static Badge" src="https://img.shields.io/badge/build-IBM-brightgreen?style=flat&logo=https%3A%2F%2Fimg.icons8.com%2F%3Fsize%3D100%26id%3D38297%26format%3Dpng%26color%3D000000&logoSize=auto&label=Cybersecurity%20Fundamentals&color=blue">
-
-
- 
   </a> 
-  <a href="https://www.credly.com/badges/f99103af-4c26-40b8-b010-cb65c5ef0f59/linked_in_profile"> 
-    <img src="https://img.shields.io/badge/API%20Penetration%20Testing-APIsec%20University-2E8B57?style=for-the-badge" alt="API Penetration Testing"> 
-  </a> 
-  <a href="https://www.credly.com/badges/208d11c2-3c5d-4f9f-8f9c-73a76bc9c0f1/linked_in_profile"> 
-    <img src="https://img.shields.io/badge/Junior%20Cybersecurity%20Analyst-Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Junior Cybersecurity Analyst Cisco"> 
   
-  </a> 
 </p>
 
 
