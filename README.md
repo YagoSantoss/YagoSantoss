@@ -166,7 +166,7 @@ minha jornada como profissional em tecnologia.
   </a> 
 
    <a href="https://www.dio.me/certificate/S9QRZDTV/share"> 
-    <img alt="Static Badge" src="https://img.shields.io/badge/Forma%C3%A7%C3%A3o%20Docker">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Forma%C3%A7%C3%A3o%20Docker?style=flat&logo=blue">
 
   </a> 
   
