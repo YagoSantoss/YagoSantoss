@@ -164,6 +164,11 @@ minha jornada como profissional em tecnologia.
   <a href="https://www.credly.com/badges/0ae191ff-8227-4ead-b457-a459c4478123/linked_in_profile"> 
     <img alt="Static Badge" src="https://img.shields.io/badge/build-IBM-brightgreen?style=flat&logo=https%3A%2F%2Fimg.icons8.com%2F%3Fsize%3D100%26id%3D38297%26format%3Dpng%26color%3D000000&logoSize=auto&label=Cybersecurity%20Fundamentals&color=blue">
   </a> 
+
+   <a href="https://www.dio.me/certificate/S9QRZDTV/share"> 
+    <img alt="Static Badge" src="https://img.shields.io/badge/Forma%C3%A7%C3%A3o%20Docker">
+
+  </a> 
   
 </p>
 
