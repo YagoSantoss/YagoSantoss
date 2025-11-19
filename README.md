@@ -7,7 +7,7 @@
 ---
 
 ### 🧠 **Sobre mim**
-Me chamo Yago Pereira, tenho 20 anos e sou natural de São Paulo. Sou formado em Análise e Desenvolvimento de
+Me chamo Yago Pereira, tenho 21 anos e sou natural de São Paulo. Sou formado em Análise e Desenvolvimento de
 Sistemas e atualmente sigo estudando e me aperfeiçoando na área de tecnologia, com foco em Cibersegurança e 
 Programação.<br>
 Este GitHub será meu espaço para compartilhar projetos, aprendizados e conhecimentos adquiridos ao longo da
