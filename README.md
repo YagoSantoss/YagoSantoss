@@ -8,7 +8,7 @@
 
 ### 🧠 **Sobre mim**
 Me chamo Yago Pereira, tenho 21 anos e sou natural de São Paulo. Sou formado em Análise e Desenvolvimento de
-Sistemas e cursaando Ciências da Computação, atualmente sigo estudando e me aperfeiçoando na área de tecnologia, com foco em 
+Sistemas e cursando Ciências da Computação, atualmente sigo estudando e me aperfeiçoando na área de tecnologia, com foco em 
 Programação.<br>
 Este GitHub será meu espaço para compartilhar projetos, aprendizados e conhecimentos adquiridos ao longo da
 minha jornada como profissional em tecnologia.
@@ -126,33 +126,6 @@ minha jornada como profissional em tecnologia.
 <br/>
 <br/>
 
----
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=YagoSantoss&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=YagoSantoss&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
-
-<br/><br/>
-<br/><br/>
-<br/><br/>
-<br/><br/>
-<br/>
-<br/>
 
 
 ---
