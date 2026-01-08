@@ -126,15 +126,13 @@ minha jornada como profissional em tecnologia.
 
 ---
 
-### 📊 Estatísticas
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YagoSantoss)](https://github.com/anuraghazra/github-readme-stats)
-<p>
+
   <img 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=YagoSantoss)](https://github.com/anuraghazra/github-readme-stats" 
+    src="https://github-readme-stats.vercel.app/api?username=YagoSantoss" 
   />
 
 <img 
