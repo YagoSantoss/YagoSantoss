@@ -45,18 +45,7 @@ minha jornada como profissional em tecnologia.
     </a>
 </p>
 
----
 
-### 📊 Estatísticas
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=YagoSantoss&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
 
 <img 
       align="left" 
@@ -128,6 +117,18 @@ minha jornada como profissional em tecnologia.
 
 <br/>
 <br/>
+---
+
+### 📊 Estatísticas
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=YagoSantoss&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
 
 ### 🤖 Linguagens e Tecnologias
 
