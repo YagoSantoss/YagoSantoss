@@ -49,19 +49,9 @@ minha jornada como profissional em tecnologia.
 
 
 
-<br/><br/>
-<br/><br/>
-<br/><br/>
-<br/><br/>
-<br/>
-<br/>
 
 
 ---
----
-
-
-
 <img 
     align="left" 
     alt="Python" 
@@ -111,6 +101,11 @@ minha jornada como profissional em tecnologia.
 
 <br/>
 <br/>
+---
+
+
+
+
 ---
 
 ### 📊 Estatísticas
