@@ -128,7 +128,6 @@ minha jornada como profissional em tecnologia.
 
 <br/>
 <br/>
----
 
 
 
