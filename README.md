@@ -126,7 +126,7 @@ minha jornada como profissional em tecnologia.
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
+
   <img 
     align="left" 
     alt="GitHub Stats" 
@@ -139,7 +139,7 @@ minha jornada como profissional em tecnologia.
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=YagoSantoss&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark" 
   />
 </p>
 
