@@ -48,7 +48,7 @@ minha jornada como profissional em tecnologia.
 ---
 
 ### 📊 Estatísticas
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
 <p>
   <img 
     align="left" 
