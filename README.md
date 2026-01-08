@@ -126,7 +126,7 @@ minha jornada como profissional em tecnologia.
 
 ---
 
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
   <img 
     align="left" 
     alt="GitHub Stats" 
