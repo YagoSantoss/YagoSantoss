@@ -125,6 +125,7 @@ minha jornada como profissional em tecnologia.
 
 
 ---
+## 📈**Estatísticas**
 
 
   <img 
@@ -135,16 +136,8 @@ minha jornada como profissional em tecnologia.
     src="https://github-readme-stats.tuhidulhossain.com/api/streak?username=YagoSantoss&theme=tokyonight" 
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark" 
-  />
-</p>
-
-
-
+---
+<br/>
 ---
 
 ## 🏅 **Certificados e Certificações**
