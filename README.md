@@ -47,10 +47,6 @@ minha jornada como profissional em tecnologia.
 
 
 
-
-
-
-
 ---
 ### 🤖 Linguagens e Tecnologias
 
@@ -125,17 +121,13 @@ minha jornada como profissional em tecnologia.
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" 
 />
 
-
 <br/>
-<br/>
-
-
 
 
 ---
 
 ### 📊 Estatísticas
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+![Anurag's GitHub stats]()
 <p>
   <img 
     align="left" 
@@ -143,6 +135,14 @@ minha jornada como profissional em tecnologia.
     height="200" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=YagoSantoss&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+  <p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" 
   />
 
 <img 
