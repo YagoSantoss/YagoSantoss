@@ -126,13 +126,13 @@ minha jornada como profissional em tecnologia.
 
 ---
 
-![GitHub Streak](https://github-readme-stats.tuhidulhossain.com/api/streak?username=encryptedtouhid)
+
   <img 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=YagoSantoss" 
+    src="https://github-readme-stats.tuhidulhossain.com/api/streak?username=YagoSantoss&theme=tokyonight" 
   />
 
 <img 
