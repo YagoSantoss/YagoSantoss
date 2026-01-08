@@ -134,15 +134,7 @@ minha jornada como profissional em tecnologia.
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=YagoSantoss&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-  <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" 
+    src="https://github-readme-stats.vercel.app/api?username=YagoSantoss&show_icons=true" 
   />
 
 <img 
