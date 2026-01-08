@@ -136,7 +136,7 @@ minha jornada como profissional em tecnologia.
     src="https://github-readme-stats.tuhidulhossain.com/api/streak?username=YagoSantoss&theme=tokyonight" 
   />
 
----
+
 <br/>
 ---
 
