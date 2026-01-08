@@ -126,7 +126,7 @@ minha jornada como profissional em tecnologia.
 
 ---
 
-
+![GitHub Streak](https://github-readme-stats.tuhidulhossain.com/api/streak?username=encryptedtouhid)
   <img 
     align="left" 
     alt="GitHub Stats" 
