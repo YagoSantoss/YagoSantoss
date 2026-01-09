@@ -94,8 +94,8 @@ minha jornada como profissional em tecnologia.
 />
 <img 
     align="left" 
-    alt="Java" 
-    title="Java"
+    alt="SpringBoot" 
+    title="SpringBoot"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"           
