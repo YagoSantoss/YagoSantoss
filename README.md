@@ -144,7 +144,7 @@ minha jornada como profissional em tecnologia.
 
 
 ---
-##📈Estatísticas
+## 📈Estatísticas
 
 <p align="left" display="flex">
   <!-- Estatísticas gerais -->
@@ -160,14 +160,6 @@ minha jornada como profissional em tecnologia.
 
   
 
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 
 ---
 
